@@ -1,0 +1,9 @@
+{
+  "commitish" : "4.2.0",
+  "iOS" : [
+    {
+      "name" : "NSObject_Rx",
+      "hash" : "7383d82f24792d0e1e61879b887538c96a5086266258f2f435f63b46a9ca107c"
+    }
+  ]
+}
